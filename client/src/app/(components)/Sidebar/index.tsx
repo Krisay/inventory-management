@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       > 
         <Image
-          src="https://s3mikenyo.s3.us-east-2.amazonaws.com//logo.png"
+          src="https://s3mikenyo.s3.us-east-2.amazonaws.com/logo-01.png"
           alt="mikenyo-logo"
           width={27}
           height={27}
