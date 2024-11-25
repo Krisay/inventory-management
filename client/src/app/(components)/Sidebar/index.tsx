@@ -80,7 +80,7 @@ const Sidebar = () => {
         className={`flex gap-3 justify-between md:justify-normal items-center pt-8 ${
           isSidebarCollapsed ? "px-5" : "px-8"
         }`}
-      > image
+      > 
         <Image
           src="https://s3mikenyo.s3.us-east-2.amazonaws.com//logo.png"
           alt="mikenyo-logo"
